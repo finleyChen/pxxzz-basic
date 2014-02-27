@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pxxzz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up For pxxzz</string>
+    <string name="forgot_password">Forgot Your Password?</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="email_hint">Enter your email address</string>
+    <string name="ui_profile_photo_picker_title">Change profile image</string>
+    <string name="join">Join pxxzz</string>
+    <string name="choose_photo">Make profile picture</string>
+    <string name="contentDescriptionChoosePhoto">Choose your profile picture</string>
+    <string name="toggle_turn_on">Show Map</string>
+    <string name="toggle_turn_off">Show List</string>
+    <string name="contentDescriptionProfileImage">This is the profile picture</string>
+    <string name="contentDescriptionImageView">This is an image</string>
+    <string name="share_photo">Share Photo</string>
+    <string name="comments">Comments</string>
+    <string name="signout">Sign Out</string>
+    <string name="delete">Delete</string>
+    <string name="profile_photo_file_name">profile_photo.png</string>
+    <string name="comment_hint">Type your comment here</string>
+    <string name="share_comment">Share Comment</string>
+    <string name="comment">Comment</string>
+    <string name="forgot_password_button">Email a temporary password</string>
+    <string name="forgot_password_textview">Enter your username, and we\'ll email you a temporary password.</string>
+    <string name="change_password_hint">Enter temporary password</string>
+    <string name="ui_profile_photo_title">Profile photo:</string>
+    <string name="ui_profile_photo_content_description">Your profile photo:</string>
+    <string name="ui_button_change_title">Change</string>
+    <string name="ui_profile_name_hint">Your name here</string>
+    <string name="ui_profile_name_title">Name</string>
+    <string name="preference_name">pxxzz_shared_preference_name</string>
+    <string name="preference_key_profile_name">profile_name</string>
+    <string name="preference_key_profile_cheese">cheese_time</string>
+    <string name="dialog_fragment_tag_photo_picker">photo_picker_dialog_fragment</string>
+    <string name="ui_profile_toast_save_text">Profile saved</string>
+    <string name="ui_profile_toast_cancel_text">Change canceled</string>
+    <string name="ui_button_save_title">Save</string>
+    <string name="ui_button_cancel_title">Cancel</string>
+    <string name="action_user_profile">Profile</string>
+    <string name="ui_edit_name_title">Change your nickname</string>
+    <string name="ui_edit_cheesetime_title">Change your min cheese time</string>
+    <string name="preference_cheesetime">pxxzz_shared_preference_cheesetime</string>
+
+    <string-array name="ui_profile_photo_picker_items">
+        <item>Take from camera</item>
+        <item>Select from gallery</item>
+    </string-array>
+
+</resources>
